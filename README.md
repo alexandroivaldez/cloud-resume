@@ -1,2 +1,2 @@
 # cloud-resume
-This was my solution for the Cloud Resume Challenge. AWS Used: S3, Lambda, DynamoDB, IAM, Route53, CloudFront.
+I undertook the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/#8-database) while preparing for my Certified Cloud Practitioner exam. Here is my solution code for the challenge. I employed AWS services as follows: S3 to serve static pages, Lambda for fetching and updating the visitor count, DynamoDB to store the visitor count, Route 53 for DNS management, and CloudFront to handle traffic and SSL.
